@@ -1,0 +1,45 @@
+:root {
+  --primary-color: #329f28;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("image/💚𝙱𝚎𝚋𝚢\ 𝚈𝚘𝚍𝚊💚.jpg");
+  background-color: #000000;
+  text-align: center;
+}
+
+h1 {
+  margin: 0%;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: whitesmoke;
+}
+
+textarea {
+  background-color: rgb(246, 246, 246);
+  border-color: white;
+  width: 82%;
+  padding: 3.3rem;
+  margin-top: 4rem;
+}
+
+div {
+  font-size: large;
+}
+
+#output {
+  background-color: whitesmoke;
+  height: 2rem;
+  padding: 4rem;
+  width: 80%;
+  margin-top: 1rem;
+  margin-left: 5.2rem;
+  margin-right: 9.5rem;
+}
+
+footer {
+  margin-left: -6em;
+  padding: 2.5rem;
+  margin-top: 20rem;
+}
